@@ -1,0 +1,9 @@
+kaggle
+pandas
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+rapidfuzz
+python-dotenv
+requests

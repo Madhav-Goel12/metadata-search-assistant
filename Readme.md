@@ -164,15 +164,15 @@ The system intelligently extracts relevant search terms and returns matching met
 
 ## Dashboard
 
-<img width="100%" src="screenshots/dashboard.png">
+<img width="100%" src="screenshots/Dashboard.png">
 
-## Metadata Search
+## Multicolumn Search
 
-<img width="100%" src="screenshots/search.png">
+<img width="100%" src="screenshots/Multicolumn Search.jpeg">
 
-## Search Results
+## Cross Dataset Search Results
 
-<img width="100%" src="screenshots/results.png">
+<img width="100%" src="screenshots/crossdataset.jpeg">
 
 ---
 
